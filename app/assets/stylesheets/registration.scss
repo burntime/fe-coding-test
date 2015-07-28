@@ -1,0 +1,25 @@
+.error {
+  border: 1px solid red;
+}
+
+#registration-form {
+  display: inline-block;
+
+  label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .col-5050 {
+    display: inline-block;
+  }
+
+  .col-5050, .age{
+    margin: 0 10px;
+  }
+
+  button {
+    float: right;
+  }
+}
